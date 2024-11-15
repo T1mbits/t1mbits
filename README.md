@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I go by Timbits online, but occasionally I'll also go by T1mbits.<br>
+Very good at talking for hours but saying absolutely nothing at the same time. Check out my "[blog](https://t1mbits.github.io/blog)" if you want to see what I'm working on or possibly thinking about (rare occurance)
+
+I ~~mostly~~ only program in 🦀 Rust, because I'm too lazy to learn any other language.
+
+🔭 I'm currently "working" on [Rain Meadow](https://github.com/henpemaz/Rain-Meadow) and hypersweeper
+💬 Ask me about literally anything honestly, I'll probably have an answer
+📫 How to reach me: iamtimbits @[Discord](https://discord.com)
+
 <!--
 **T1mbits/t1mbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
